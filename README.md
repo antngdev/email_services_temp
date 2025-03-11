@@ -191,7 +191,7 @@ Open-source temporary email service that provides quick, anonymous email solutio
    - Add your `SECRET` to the environment configuration
 
    ```bash
-   SECRET="12398"
+   export SECRET="12398"
    ```
 
 4. Start development server:
